@@ -1,2 +1,2 @@
-# P3gitHub_Edras_jose
-buenas este es mi reposito donde va un programa donde vamos hacer una calculadora donde se muestro en la consola de java :).
+# P3gitHub_Edras_jos
+buenas este  repositorio  va a mostrar un programa donde vamos desarrollar una calculadora simple con funciones con suma ,resta ,multiplicacion y division y un menu  que se vera por consola .
